@@ -2,5 +2,5 @@ a = 6
 b = 10
 
 def restar (x, y):
-    return x - y  
+    return x + y  
 
