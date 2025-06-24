@@ -1,3 +1,3 @@
 c = 19 
-d = 4
+d = 90
 resultado = c - d   
