@@ -1,6 +1,6 @@
 a = 6
 b = 10
 
-def restar (x, y):
+def sumar (x, y):
     return x + y  
 
